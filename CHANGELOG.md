@@ -1,6 +1,12 @@
 # Changelog of Commits
 Made to document team contributions (who worked on what) as instructed in Team Project Task number 4.
 
+## - Farrell 02/05/2026 18:43:00
+### Changed
+- Updated main.c | Added multiplication and division functions
+- Updated README.md
+- Updated CHANGELOG.md
+
 ## - Joses 02/05/2026 18:10:00
 ### Added
 - Added and Updated CHANGELOG.md
