@@ -9,4 +9,4 @@ This project is a C program that functions as a calculator. This calculator can 
 ## Team Roles
 - Joses Ignatius Ferdinand Pelealu - made the repository, added the addition function
 - Farrell Al Azri Syawaldy Yanuar
-- Yohanes Christopher Hardjito - added the subtraction function
+- Yohanes Christopher Hardjito - added the substraction function
