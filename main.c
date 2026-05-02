@@ -14,6 +14,14 @@ float Sub(float a, float b){
   return a-b;
 }
 
+float Multiplication(float a, float b){
+  return a*b;
+}
+
+float Division(float a, float b){
+  return a/b;
+}
+
 int main(){
   float num1, num2;
   int option;
@@ -42,6 +50,14 @@ int main(){
 
     case 2: // and so on
       result = Sub(num1,num2);
+
+    case 3:
+      result = Multiplication(num1, num2);
+      break;
+    
+    case 4:
+      result = Division(num1, num2);
+      break;
   }
   
   printf("  Results: %.2f", result);
