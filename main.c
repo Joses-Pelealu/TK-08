@@ -10,6 +10,10 @@ float Add(float a, float b){
   return a+b;
 }
 
+float Sub(float a, float b){
+  return a-b;
+}
+
 float Multiplication(float a, float b){
   return a*b;
 }
@@ -45,6 +49,7 @@ int main(){
       break;
 
     case 2: // and so on
+      result = Sub(num1,num2);
 
     case 3:
       result = Multiplication(num1, num2);

@@ -1,6 +1,22 @@
 # Changelog of Commits
 Made to document team contributions (who worked on what) as instructed in Team Project Task number 4.
 
+## - Djito 02/05/2026 19:32:37
+### Changed
+- Updated CHANGELOG.md file
+
+## - Djito 02/05/2026 19:27:42
+### Changed
+- Updated README.md file
+
+## - Djito 02/05/2026 19:26:02
+### Changed
+- Updated main.c file | Added Substraction function
+
+## - Djito 02/05/2026 19:30:05
+### Changed
+- Updated main.c file | Added Substraction function
+
 ## - Farrell 02/05/2026 18:43:00
 ### Changed
 - Updated main.c | Added multiplication and division functions
