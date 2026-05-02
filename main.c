@@ -10,6 +10,10 @@ float Add(float a, float b){
   return a+b;
 }
 
+float Sub(float a, float b){
+  return a-b;
+}
+
 int main(){
   float num1, num2;
   int option;
@@ -37,6 +41,7 @@ int main(){
       break;
 
     case 2: // and so on
+      result = Sub(num1,num2);
   }
   
   printf("  Results: %.2f", result);
